@@ -1,0 +1,20 @@
+.cardContainer {
+    background-color: #fff8e1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.cardTitle {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.cardContent {
+    font-size: 18px;
+    color: #555;
+}
